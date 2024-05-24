@@ -1,0 +1,38 @@
+
+.accueil{
+    margin: 0;
+    padding: 0
+    ;
+   height: 100vh;
+   width: 100%;
+    background-image: url("../img/avion.jpg");
+background-repeat: no-repeat;
+background-size: cover;}
+.bannerVol{
+    background-color: blue;
+    color: white;
+    
+    padding: 5px;
+}
+.title{
+    font-weight: 900;
+}
+.bannerReservation{
+    background-color: rgb(255, 0, 30);
+    color: white;
+    
+    padding: 5px;
+}
+.right{
+    text-align: end;
+    padding: 25px;
+}
+.btnv{
+    background-color: rgb(42, 165, 69);
+    color: white;
+}
+.eng{
+    border: 1px solid rgb(116, 163, 206);
+    width:fit-content;
+    border-radius : 7px;
+}
